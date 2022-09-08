@@ -1,8 +1,7 @@
 # RadioStations
 
-A Batch file that lets the user choose a radio station to play using MusicBee Portable.
 
-This is a .bat which i created to play A Variety of Radio Stations.
+This is a .bat which i created to play A Variety of PreDefined Radio Stations.
 
 Portable (Move it anywhere -But may need to re-Locate Library -See PNG)
 
