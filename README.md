@@ -10,7 +10,6 @@ Customizable (Add/Edit/Remove Stations in StationList.bat or the .m3u/.pls Files
 
 Discreet (Starts in Mini Player View - A Small Box that Sits in Bottom Right Corner)
 
-Download Link -> https://github.com/JusVenom/RadioStations/raw/main/MusicBee.7z
 Extract the MusicBee.7z Archive.. Create a Shortcut to.. Play-Radio-Stations.bat Anywhere..
 
 Run The Shortcut, Press C and Choose a Station (or press nothing and it will load the last played station)
@@ -18,3 +17,5 @@ Run The Shortcut, Press C and Choose a Station (or press nothing and it will loa
 ONLY ON FIRST RUN Will it Prompt you to Locate the Library.. Just Hit Locate and Open.. MusicBee\Library\MusicBeeLibrary.mbl
 
 Enjoy :)
+
+Easy Download Link -> https://github.com/JusVenom/RadioStations/raw/main/MusicBee.7z
